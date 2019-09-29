@@ -1,0 +1,23 @@
+{
+  "name": "static-page-helper",
+  "version": "0.1.0",
+  "description": "A scafford that helps you quickly build static page or pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevilen/static-page-helper.git"
+  },
+  "keywords": [
+    "static",
+    "pages."
+  ],
+  "author": "wangx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevilen/static-page-helper/issues"
+  },
+  "homepage": "https://github.com/sevilen/static-page-helper#readme"
+}
